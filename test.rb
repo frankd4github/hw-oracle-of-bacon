@@ -1,7 +1,7 @@
 require_relative 'lib/oracle_of_bacon'
 require 'byebug'
 
-oob = OracleOfBacon.new('my_api_key')
+oob = OracleOfBacon.new('38b99ce9ec87')
 
 # connect Laurence Olivier to Kevin Bacon
 oob.from = 'Laurence Olivier'
